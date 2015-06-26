@@ -1,5 +1,5 @@
 describe('Replace temp with query', function () {
-    var DiscountCalculator = require('../../src/js/refactorings/replace_temp_with_query');
+    var DiscountCalculator = require('../../src/js/solutions/replace_temp_with_query');
 
     describe('discount factor', function () {
         //for the purposes of demonstrating the refactoring, we'll pretend it's ok

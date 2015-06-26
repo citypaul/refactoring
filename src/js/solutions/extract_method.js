@@ -41,7 +41,7 @@ module.exports = {
     printDetails: function (outstanding) {
         var returnString = '';
         returnString += 'Name: ' + this._name;
-        returnString += 'Amouxnt: ' + outstanding;
+        returnString += 'Amount: ' + outstanding;
 
         return returnString;
     },
