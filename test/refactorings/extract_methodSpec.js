@@ -1,5 +1,5 @@
 describe('Extract method', function () {
-    var obj = require('../../src/js/refactorings/extract_method');
+    var obj = require('../../src/js/solutions/extract_method');
 
     it('print the amount owing', function() {
         var expectedString = '';
